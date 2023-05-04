@@ -11,12 +11,13 @@
     float: left;
     list-style: none;
     margin: 13px 20px;
-	dispay:inline;
-	margin-right:1rem;
+	
 }
 
 .navbar li a{
     padding: 3px 3px;
-    text-decoration: none;
+	text-decoration:none;
     color: black;
+	dispay:inline;
+	margin-right:1rem;
 }
